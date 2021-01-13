@@ -10,3 +10,4 @@ This repository contains the project folders for the medium tutorial series. You
 * SPI		-> https://medium.com/vicara-hardware-university/dialog-da14531-spi-d5b34fd3cc5b
 * ADC		-> https://medium.com/vicara-hardware-university/dialog-da14531-adc-655c0194ea36
 * Interrupts	-> https://medium.com/vicara-hardware-university/dialog-da14531-interrupts-c3b0dc5d9e00
+* WDT		-> https://medium.com/vicara-hardware-university/dialog-da14531-wdt-cb5437b44af6
