@@ -3,3 +3,7 @@
 *.hex
 *.bin
 *.elf
+.settings
+DA14531/
+DA14585/
+DA14586/
